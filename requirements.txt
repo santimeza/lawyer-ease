@@ -1,0 +1,10 @@
+cffi==1.17.1
+chardet==5.2.0
+charset-normalizer==3.4.1
+cryptography==44.0.2
+pdfminer.six==20250327
+pdfplumber==0.11.6
+pillow==11.1.0
+pycparser==2.22
+pypdfium2==4.30.1
+reportlab==4.3.1
